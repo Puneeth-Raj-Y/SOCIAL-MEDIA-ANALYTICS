@@ -1,4 +1,4 @@
-# 📊 Instagram Social Media Analytics Dashboard
+# 📊 Social Media Analytics Dashboard
 
 ## About the Project
 
