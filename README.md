@@ -2,7 +2,7 @@
 
 ## About the Project
 
-The **Instagram Social Media Analytics Dashboard** is a Power BI project created to analyze Instagram post performance and understand audience engagement, reach, impressions, content performance, and follower growth.
+The **Social Media Analytics Dashboard** is a Power BI project created to analyze Instagram post performance and understand audience engagement, reach, impressions, content performance, and follower growth.
 
 ## Why We Chose This Project
 
